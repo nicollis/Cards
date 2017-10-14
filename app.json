@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "sdkVersion": "21.0.0",
+    "orientation": "portrait",
+    "name": "OllisCards",
+    "description": "Flash Cards my dudes",
+    "slug": "OllisCards",
+    "version": "1.0",
+    "icon": "https://png.icons8.com/drum-set-filled/ios7/25",
+    "notification": {
+      "icon": "https://png.icons8.com/drum-set-filled/ios7/25"
+    },
+    "ios": {
+     "bundleIdentifier": "digital.ollis.flashcards.exp",
+    },
+    "android": {
+     "package": "digital.ollis.flashcards.exp",
+    }
+  },
+}
